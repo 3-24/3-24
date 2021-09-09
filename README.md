@@ -1,5 +1,5 @@
 Hi there! :wave:
-- 💭 I always focus on 'How to write non-buggy code?'.
+- 💭 I am focusing on 'How to write clean, non-buggy code?'.
 - :heart: My interest is making stable system maintenance such as CI/CD pipelining.
 - 💻 I am studying problem-solving with deep learning. (last update 2021/09/09)
 
