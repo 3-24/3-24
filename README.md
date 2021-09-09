@@ -1,3 +1,8 @@
+Hi there! :wave:
+- 💭 I always focus on 'How to write non-buggy code?'.
+- :heart: My interest is making stable system maintenance such as CI/CD pipelining.
+- 💻 I am studying problem-solving with deep learning. (last update 2021/09/09)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-24&theme=react&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3-24&theme=react&layout=compact&exclude_repo=3-24.github.io&hide=html,css)
