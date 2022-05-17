@@ -1,7 +1,9 @@
 Hi there! :wave:
 - 💭 I am focusing on 'How to write clean, non-buggy code?'.
-- :heart: My interest is making stable system maintenance such as CI/CD pipelining.
-- 💻 I am studying problem-solving with deep learning. (last update 2021/09/09)
+- I love programming in Rust.
+- In these days, I am focusing on improving compilers (including LLVM)
+
+(last update 2021/09/09)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-24&theme=react&count_private=true&show_icons=true)
 
