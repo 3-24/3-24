@@ -1,7 +1,7 @@
 Hi there! :wave:
 - 💭 I am focusing on 'How to write clean, non-buggy code?'.
-- I love programming in Rust.
-- In these days, I am focusing on improving compilers (including LLVM)
+- ❤️ I love programming in Rust.
+- 💻 In these days, I am focusing on improving compilers (including LLVM)
 
 (last update 2021/09/09)
 
