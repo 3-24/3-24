@@ -8,4 +8,10 @@ Hi there! :wave:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-24&theme=react&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```text
+Rust       7 hrs 33 mins   ████████████████████▒░░░░   81.38 %
+Other      1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+```
+
 <!--END_SECTION:waka-->
