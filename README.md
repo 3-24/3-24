@@ -7,4 +7,6 @@ Hi there! :wave:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-24&theme=react&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3-24&theme=react&layout=compact&exclude_repo=3-24.github.io&hide=html,css)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
