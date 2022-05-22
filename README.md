@@ -1,7 +1,6 @@
 Hi there! :wave:
 - 💭 I am focusing on 'How to write clean, non-buggy code?'.
 - :crab: I love programming in Rust.
-- 🤸 In these days, I am studying how to improving the compilers.
 
 (last update 2022/05/17)
 
