@@ -10,8 +10,8 @@ Hi there! :wave:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       7 hrs 33 mins   ████████████████████▒░░░░   81.38 %
-Other      1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Rust       7 hrs 33 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀   81.38 %
+Other      1 hr 16 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.69 %
 ```
 
 <!--END_SECTION:waka-->
