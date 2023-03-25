@@ -1,7 +1,7 @@
 Hi there! :wave:
 - 💭 Broadly speaking, I am focusing on 'How to write clean, non-buggy code?'.
-- Typically, program analysis, testing, and verification is my major interest. I am in a Master's course in software testing and verification group at KAIST.
-- :crab: I love programming in Rust.
+- 📖: Typically, program analysis, testing, and verification is my major interest. I am in a Master's course in software testing and verification group at KAIST.
+- :crab: I love Rust programming language.
 
 (last update 2022/05/17)
 
