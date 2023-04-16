@@ -5,6 +5,8 @@ Hi there! :wave:
 
 (last update 2022/03/25)
 
+> "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
+
 <a href="https://github.com/3-24#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=3-24&theme=default&count_private=true&show_icons=true#gh-white-mode-only" alt="My GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minus21&theme=default&custom_title=Weekly%20Most%20Used%20Languages#gh-white-mode-only"/>
