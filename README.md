@@ -3,8 +3,6 @@ Hi there! :wave:
 - 📖 Program analysis, testing, and verification is my major interest. I am in a Master's course in software testing and verification group at KAIST.
 - :crab: I love Rust programming language.
 
-(last update 2022/03/25)
-
 > "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
 
 <a href="https://github.com/3-24#gh-light-mode-only">
@@ -16,3 +14,5 @@ Hi there! :wave:
   <img src="https://github-readme-stats.vercel.app/api?username=3-24&theme=react&count_private=true&show_icons=true#gh-dark-mode-only" alt="My Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minus21&theme=react&custom_title=Weekly%20Most%20Used%20Languages#gh-dark-mode-only"/>
 </a>
+
+(last update 2022/03/25)
