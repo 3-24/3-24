@@ -1,9 +1,8 @@
-Hi there! :wave:
+> "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
+
 - 💭 Broadly speaking, focusing on 'How to maintain clean, non-buggy code?'.
 - 📖 Program analysis, testing, and verification is my major interest. I am in a Master's course in software testing and verification group at KAIST.
 - :crab: I love Rust programming language.
-
-> "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
 
 <a href="https://github.com/3-24#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=3-24&theme=default&count_private=true&show_icons=true#gh-white-mode-only" alt="My GitHub Stats"/>
