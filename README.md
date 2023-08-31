@@ -8,7 +8,7 @@
   - Git (version control system)
   - Docker (virtual environment)
   - Fuzzing (automated testing)
-  - GitHub Copilot, CodeWhisperer (AI-assisted programming)
+  - GitHub Copilot, CodeWhisperer (code autocompletion)
   - Continuous Integration, Continuous Deployment
  
   I believe that **Software Engineering** is the area to introduce such technologies to provide a better environment for software development
