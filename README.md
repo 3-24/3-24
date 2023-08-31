@@ -1,8 +1,7 @@
 > "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
 
-- 💭 Broadly speaking, focusing on 'How to maintain clean, non-buggy code?'.
-- 📖 Program analysis, testing, and verification is my major interest. I am in a Master's course in software testing and verification group at KAIST.
-- :crab: I love Rust programming language.
+- 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'
+- 📖 I am in a Master's course in software testing and verification group at KAIST. My major topics are program analysis and automated software testing.
 
 <a href="https://github.com/3-24#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=3-24&theme=default&count_private=true&show_icons=true#gh-white-mode-only" alt="My GitHub Stats"/>
@@ -14,4 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minus21&theme=react&custom_title=Weekly%20Most%20Used%20Languages#gh-dark-mode-only"/>
 </a>
 
-(last update 2022/03/25)
+(last update 2022/08/31)
