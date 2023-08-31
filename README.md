@@ -18,4 +18,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minus21&theme=react&custom_title=Weekly%20Most%20Used%20Languages#gh-dark-mode-only"/>
 </a>
 
-(last update 2022/08/31)
+(last update 2023/08/31)
