@@ -11,7 +11,7 @@
   - GitHub Copilot, CodeWhisperer (AI-assisted programming)
   - Continuous Integration, Continuous Deployment
  
-  I believe that 'Software Engineering' is the area to introduce such technologies to assist and help software developers in general.
+  I believe that **Software Engineering** is the area to introduce such technologies to assist and help software developers in general.
 
 <a href="https://github.com/3-24#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=3-24&theme=default&count_private=true&show_icons=true#gh-white-mode-only" alt="My GitHub Stats"/>
