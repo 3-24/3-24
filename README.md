@@ -5,11 +5,11 @@
 - 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'.
   
   For instance, I love to use the following things because they help and assist the software development cycle.
+  - Fuzzing (automated testing)
+  - GitHub Actions, Jenkins (CI/CD)
+  - CodeWhisperer, GitHub Copilot (code auto-completion)
   - Git (version control system)
   - Docker (virtual environment)
-  - Fuzzing (automated testing)
-  - GitHub Copilot, CodeWhisperer (code autocompletion)
-  - Continuous Integration, Continuous Deployment
  
   I believe that **Software Engineering** is the area to introduce such technologies to provide a better environment for software development.
 
