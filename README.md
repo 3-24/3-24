@@ -1,5 +1,3 @@
-> "The feelings and the passion that people put into it were completely indistinguishable from a poet or a painter"
-
 - 📖 I am in a Master's course in **Software Testing and Verification Group**, KAIST.
 - :mag: My major interests are **program analysis** and **automated software testing**.
 - 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'.
