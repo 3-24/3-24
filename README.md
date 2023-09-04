@@ -2,7 +2,7 @@
 - :mag: My major interests are **program analysis** and **automated software testing**.
 - 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'.
   
-  For instance, I love to use the following things because they help and assist the software development cycle.
+  For instance, I love to use the following things because they help and assist the software development cycle in very unique way.
   - Fuzzing (automated testing)
   - GitHub Actions, Jenkins (CI/CD)
   - CodeWhisperer, GitHub Copilot (code auto-completion)
