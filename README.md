@@ -1,6 +1,6 @@
 - 📖 I am in a Master's course in **Software Testing and Verification Group**, KAIST.
 - :mag: My major interests are **program analysis** and **automated software testing**.
-- 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'.  In the short term,  **meta-software-development**.
+- 💭 Broadly speaking, focusing on 'How to increase productivity when we write programs?'.  In the short term,  **meta-software-development**!
   
   For instance, I love to use the following things because they help and assist the software development cycle in very unique way.
   - Fuzzing (automated testing)
