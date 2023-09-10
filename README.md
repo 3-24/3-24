@@ -5,7 +5,7 @@
   - GitHub Actions, Jenkins (CI/CD)
   - CodeWhisperer, GitHub Copilot (code auto-completion)
   - Git (version control system)
-  - Docker (virtual environment)
+  - Docker, Kubernetes (container and orchestration)
 
 - 🤔 I enjoy the **mathematical foundations** of computer science such as programming language theory and algorithmic problem-solving.
 
