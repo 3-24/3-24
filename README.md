@@ -1,7 +1,7 @@
 - 📖 I am in a Master's course in **Software Testing and Verification Group**, KAIST.
 - :mag: My major interests are **program analysis** and **automated software testing**.
 - 🤔 I enjoy the **mathematical foundations** of computer science such as programming language theory and algorithmic problem-solving.
-- ☕ Coffee chat is always welcome. [Send an e-mail!](mailto:me@youngseok.com)
+- ☕ Coffee chat is always welcome, you can reach me if you visit near KAIST. [Send an e-mail!](mailto:me@youngseok.com)
 
 <a href="https://github.com/3-24#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=youngseokchoi&theme=default&count_private=true&show_icons=true#gh-white-mode-only" alt="My GitHub Stats"/>
